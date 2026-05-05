@@ -1,0 +1,11 @@
+bin/
+build/
+__pycache__/
+*.pyc
+output/*.c
+output/*.o
+output/*.obj
+output/*.exe
+output/*.out
+output/runtime_output.txt
+docs/execution-screenshot.png
