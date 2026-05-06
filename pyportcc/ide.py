@@ -1,7 +1,7 @@
 """
-MD INDUSTRIES
-Developer: M.DHANESVARAN
-Batman-themed local IDE for the portable Python subset compiler.
+
+Developer: L.Gunaseelan
+local IDE for the portable Python subset compiler.
 """
 
 from __future__ import annotations
